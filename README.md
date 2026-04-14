@@ -2,20 +2,19 @@
 
 ## 🔐 Self-Hosting & Security Engineering Portfolio
 
-Welcome! I'm a **hands-on security enthusiast** building production-grade infrastructure from scratch. This repository documents my journey through self-hosting, system hardening, and privacy-focused solutions—all with a focus on **real-world security engineering practices**.
-
+Welcome! I'm a **hands-on security enthusiast** building production-grade infrastructure from scratch. This repository documents my journey through self-hosting, system hardening, and privacy-focused solutions—all with a focus on **real-world security practices**.
 
 
 ## About This Project
 
-I believe the best way to learn security is to **build, break, and rebuild**. Each project in this collection represents a real implementation I've deployed, documented, and secured. These aren't tutorials copied from elsewhere—they're battle-tested configurations from my own infrastructure.
+I believe the best way to learn security is to **build, break, and rebuild**. Each project in this collection represents a real implementation I've deployed, documented, and secured. these projects are battle-tested configurations from my own infrastructure.
 
-**Why this matters for security engineering:**
+**Why this matters for security:**
 
 * I understand infrastructure from the ground up
 * I've implemented security controls in production
 * I document failures and lessons learned
-* I prioritize privacy, automation, and defense-in-depth
+* I prioritize privacy, automation, and defense-in-depth.
 
 
 
@@ -30,9 +29,10 @@ I believe the best way to learn security is to **build, break, and rebuild**. Ea
 | 5 | [**Pi-hole Network Defense**](https://github.com/rootGirly/Projects/tree/main/pi-hole) | Raspberry Pi, DNS, UFW | Network-level threat blocking, Fail2Ban |
 | 6 | [**Automated Email System**](https://github.com/rootGirly/Projects/tree/main/React-email) | React Email, Resend, Docker | Secure credential handling, template automation |
 | 7 | [**Proxmox Virtualization**](https://github.com/rootGirly/Projects/tree/main/proxmox) | KVM, LXC, Debian | Isolated environments, sandboxing, snapshots |
+| 8 | [**Restic Backup System**](https://github.com/rootGirly/Projects/tree/main/restic) | Restic, Cron, SFTP| Encrypted offsite backups, retention policies, disaster recovery |
 
----
-## 🛡️ Security Engineering Skills learned
+
+## 🛡️ Security Skills learned
 
 ### Infrastructure Security
 - **System Hardening:** CIS Benchmarks, UFW firewall, Fail2Ban
@@ -58,20 +58,12 @@ I believe the best way to learn security is to **build, break, and rebuild**. Ea
 
 ## 🎓 Learning Philosophy
 
-I don't just consume content—I **build, document, and share**. My approach:
-
-1. **Start with documentation** (always read the official docs first)
-2. **Verify file integrity** (SHA256 checksums for all downloads)
-3. **Test in isolated environments** (VMs, containers before production)
-4. **Document failures** (every mistake is a lesson)
-5. **Share openly** (help others learn from my journey)
-
-This mindset translates directly to security engineering: **curiosity, rigor, and continuous improvement.**
+**Build, document, and share. Then break and test your own system security.**
 
 
 ## 🚀 For Recruiters & Hiring Managers
 
-If you're evaluating my candidacy for security engineering roles, here's what this portfolio demonstrates:
+If you're evaluating my candidacy for security roles, here's what this portfolio demonstrates:
 
 | Competency | Evidence |
 |------------|----------|
@@ -86,34 +78,20 @@ If you're evaluating my candidacy for security engineering roles, here's what th
 
 ## 📬 Contact & Opportunities
 
-I'm actively seeking **Security Engineer**, **DevSecOps**, or **Infrastructure Security** roles where I can contribute my hands-on experience while continuing to grow.
+I'm actively seeking **Security Engineer**, or **Infrastructure Security**, **Cloud Security** roles where I can contribute my hands-on experience while continuing to grow.
 
 - 📧 Email: rootgirl@protonmail.com 
-> **OPSEC Note:** I use a pseudonym and encrypted email to maintain operational security. This reflects my commitment to privacy-first practices—a value I bring to security engineering roles.
+> **OPSEC Note:** I use a pseudonym to maintain operational security. This reflects my commitment to privacy-first practices—a value I bring to security roles.
 
-- Website : comming soon.
+- Website : coming soon.
 
 
 ## 🙏 Acknowledgments
 
-Special thanks to the open-source communities behind:
-- [Ansible Lockdown](https://github.com/ansible-lockdown)
-- [Pi-hole](https://pi-hole.net/)
-- [Proxmox](https://www.proxmox.com/)
-- [Nextcloud](https://nextcloud.com/)
-- [React Email](https://react.email/)
-- [Caddy Server](https://caddyserver.com/)
-
+Special thanks to all the open-source communities/
 Without these projects, none of this would be possible.
 
 
-
-## ⚖️ License
-
-All configurations and code in this repository are shared under [MIT License](LICENSE). Feel free to adapt, learn from, and improve upon these implementations.
-
-
-
-**Security isn't a product—it's a process. And the best way to understand that process is to build it yourself.**
+**Security isn't a product, it's a process. I believe the best way to learn it is to build systems myself and then test whether they hold up.**
 
 **Be your own guru.** 🛡️
