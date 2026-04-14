@@ -4,7 +4,7 @@
 
 Today, I felt like diving into **reliability, recoverability, and automation.**
 
-Not because it sounds exciting on paper but because at some point, you realize that running a VPS without backups is basically hoping nothing goes wrong.
+Because at some point, you realize that running a VPS without backups is basically hoping nothing goes wrong.
 
 **And hope is not a strategy.**
 
