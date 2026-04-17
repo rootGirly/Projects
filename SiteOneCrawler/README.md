@@ -2,15 +2,15 @@
 
 >Goal: Automate the discovery of security misconfigurations and compliance gaps in web applications.
 
-In the world of web security, visibility is the first step to defense. Before we can harden a system, we need to know its current state. This is where SiteOne Crawler shines.
+In the world of web security, visibility is the first step to defense. Before we can harden a system, we need to know its current state. This is where [SiteOne Crawler](https://crawler.siteone.io/) shines.
 
 This open-source tool allows for rapid, automated web audits, combining security scanning with SEO analysis. Within minutes, it generates a comprehensive HTML report highlighting potential vulnerabilities, missing security headers, and configuration errors.
 
 ![](img/logo-siteone.webp)
 
-* Pre-deployment checks: Ensuring new sites are secure before going live.
-* Continuous monitoring: Regularly scanning production environments for regressions.
-* Compliance validation: Checking against standards like OWASP Top 10 basics.
+* **Pre-deployment checks:** Ensuring new sites are secure before going live.
+* **Continuous monitoring:** Regularly scanning production environments for regressions.
+* **Compliance validation:** Checking against standards like [OWASP Top 10 basics](https://owasp.org/www-project-top-ten/).
 
 [Official Documentation](https://crawler.siteone.io/getting-started/quick-start-guide/)
 
@@ -84,7 +84,7 @@ This approach reduces noise and allows the auditor to quickly identify:
 
 ![HTML results](img/crawler-report.jpg)
 
-![SHTML Results](img/crawler-report_1.jpg)
+![HTML Results](img/crawler-report_1.jpg)
 
 ### Why This Matters for Security by Design? 
 
