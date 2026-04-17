@@ -30,6 +30,8 @@ I believe the best way to learn security is to **build, break, and rebuild**. Ea
 | 6 | [**Automated Email System**](https://github.com/rootGirly/Projects/tree/main/React-email) | React Email, Resend, Docker | Secure credential handling, template automation |
 | 7 | [**Proxmox Virtualization**](https://github.com/rootGirly/Projects/tree/main/proxmox) | KVM, LXC, Debian | Isolated environments, sandboxing, snapshots |
 | 8 | [**Restic Backup System**](https://github.com/rootGirly/Projects/tree/main/restic) | Restic, Cron, SFTP| Encrypted offsite backups, retention policies, disaster recovery |
+| 9 | [**SiteOne Web Auditor**](https://github.com/rootGirly/Projects/tree/main/SiteOneCrawler) | CLI, HTML Reports | Rapid security scanning, header validation, compliance checks |
+
 
 
 ## 🛡️ Security Skills learned
@@ -94,4 +96,4 @@ Without these projects, none of this would be possible.
 
 **Security isn't a product, it's a process. I believe the best way to learn it is to build systems myself and then test whether they hold up.**
 
-**Be your own guru.** 🛡️
+**Be your own guru.** 
