@@ -81,7 +81,7 @@ If you're evaluating my candidacy for security roles, here's what this portfolio
 | **Purple Team Interest** | Building defensive architectures specifically to validate them against adversarial tactics |
 | **Communication** | Clear documentation with diagrams, code, and screenshots |
 | **Problem Solving** | Real troubleshooting (port conflicts, certificate issues, compatibility) |
-| **Initiative** | Self-directed learning, no formal training required |
+| **Initiative** | Self-directed learning |
 
 **Career Goal:** I am actively seeking **Junior Security Engineer**, **Infrastructure Security**, or **Purple Team** roles where I can leverage my hands-on experience in building secure systems to identify vulnerabilities, simulate attacks, and strengthen overall resilience.
 
