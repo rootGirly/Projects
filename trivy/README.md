@@ -176,9 +176,7 @@ Describes whether the vulmnerability can affect system components beyond the sco
 For learning purposes I'll interpreted manually Vulnerability find early with trivy:  **CVE-2025-68973**
 
 
-The CVSS vector uses a single-line format.
-
-![Common Vulnerability Score System](img/CVSS-1.jpg)
+**The CVSS 3.1 Vector**: AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H
 
 >**Note:** this is based on version CVSS 3.1
 > Current Version: 4.0
