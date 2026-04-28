@@ -135,15 +135,6 @@ ssh-keygen -t ed25519 -C "ci-cd-deploy-key" -f ~/.ssh/deploy_key
 `ssh-copy-id -i ~/.ssh/deploy_key.pub deploy@my-server-ip`
 
 
-**Check folder access**
-
-`ls -la /var/www` 
-
-output
-```
-lrwxrwxrwx 1 root root 11 Apr 23 12:00 /var/www```
-
-
 **Securing Permissions (Critical): If permissions are too open, SSH will reject the key.**
 
 
