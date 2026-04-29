@@ -34,6 +34,8 @@ I believe the best way to learn security is to **build, break, and rebuild**. Ea
 | 10 | [**Secure Offsite Backups: Architecture**](https://github.com/rootGirly/Projects/tree/main/sftp) | Proxmox LXC, WireGuard, Restic, SFTP | Network isolation, encrypted tunneling, least privilege access |
 | 11 | [**Secure Offsite Backups: Hardening**](https://github.com/rootGirly/Projects/blob/main/sftp/Verification%20%26%20Hardening.md) | SSH Hardening, Fail2Ban, UFW, WireGuard | Defense-in-depth, brute-force protection, SFTP-only access |
 | 12 | [**Trivy Security Assessment**](https://github.com/rootGirly/Projects/tree/main/trivy) | Trivy, Docker, Bash, CVSS | Full-stack vulnerability scanning, secret detection, misconfiguration analysis, patch management |
+| 13 | [**DevSecOps Pipeline**](https://github.com/rootGirly/Projects/tree/main/CI-CD) | GitHub Actions, Node.js, pnpm, SSH, rsync | Automated security gates, secure deployment, least privilege, CI/CD integration |
+| 14 | [**SQL Injection Penetration Test**](https://github.com/rootGirly/Projects/tree/main/SQLi) | Exegol, SQLMap, OrbStack, Bash | Offensive security simulation, SQL injection detection, ethical hacking, vulnerability validation |
 
 
 ## 🛡️ Security Skills learned
