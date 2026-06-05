@@ -2,7 +2,7 @@
 
 I was looking for the best way to keep my documentation accessible and organized—rather than just scattered across my local hard drive
 
-![Zensical logo](img/Zensical-Color-Regular.png)
+![Zensical logo](img/Zensical-Grayscale-Regular.png)
 
 I keep a lot of notes. Homelab configs, hardening checklists, the exact `rsync` flag I most of the time forget. For a long time those lived scattered across Medium drafts and random GitHub gists. I wanted one home for them: searchable, version-controlled, mine.
 
