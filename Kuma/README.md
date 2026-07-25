@@ -50,29 +50,29 @@ Proxmox is one of my favourites working enviroments and it has a community scrip
 
  * Paste and execute this command:
 
- ``` bash
- bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/ct/uptimekuma.sh)"
+```
+bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/ct/uptimekuma.sh)"
 ```
 	
-	This pattern fetch a remote script and pipe it into a shell is convenient but carries inherent supply chain risk. The script executes with whatever privileges the current user has, and its contents could change between the time you review it and the time it runs. It’s a well-known, widely-used community project with transparent source and active maintenance, which significantly reduces (but doesn’t eliminate) the risk.
+This pattern fetch a remote script and pipe it into a shell is convenient but carries inherent supply chain risk. The script executes with whatever privileges the current user has, and its contents could change between the time you review it and the time it runs. It’s a well-known, widely-used community project with transparent source and active maintenance, which significantly reduces (but doesn’t eliminate) the risk.
 		
-	**Verify, then execute**. I treat any `curl | bash` one-liner the same way I'd treat a third-party binary or dependency—inspect the source, understand what it does, and accept the residual risk consciously.
+**Verify, then execute**. I treat any `curl | bash` one-liner the same way I'd treat a third-party binary or dependency—inspect the source, understand what it does, and accept the residual risk consciously.
 
 
 1. **Follow the Prompts**
  
  Answer its prompts (default settings are fine).
 
-1. **Note the Assignment**
+2. **Note the Assignment**
 
 	The script builds the LXC container, installs Uptime Kuma, and prints the access URL:
 
-	``` bash
+```
 	Uptime Kuma should be reachable by going to the following URL.
-http://192.168.x.x:3001
+	http://192.168.x.x:3001
 ```
 
-1.  **Initial Configuration**
+3.  **Initial Configuration**
 
 ## Out-of-Band Alerting: Separating the Signal Path from the Monitored Path
 
