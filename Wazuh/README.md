@@ -3,7 +3,7 @@
 
 **Goal**: Deploy a Security Operations Center at home, something monitoring my own infrastructure: a bare-metal hypervisor (Proxmox) at home and two VPS I run elsewhere.
 
-![Wazu logo](img/wazuh.svg)
+![Wazu logo](img/wazuh-logo.png)
 
 This article walks through my approach to building a complete SIEM pipeline at home with Wazuh with security intent at every decision point, from network architecture to agent enrollment to post-deployment hardening.
 
