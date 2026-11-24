@@ -94,10 +94,10 @@ If you're evaluating my candidacy for security roles, here's what this portfolio
 
 I'm actively seeking **Security Engineer**, or **Infrastructure Security**, **Cloud Security** roles where I can contribute my hands-on experience while continuing to grow.
 
-- 📧 Email: rootgirl@protonmail.com 
+
 > **OPSEC Note:** I use a pseudonym to maintain operational security. This reflects my commitment to privacy-first practices—a value I bring to security roles.
 
-- Website : coming soon.
+- Website : [Portfolio](https://me.s-mily.be/)
 
 
 ## 🙏 Acknowledgments
